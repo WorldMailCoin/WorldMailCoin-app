@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+out/
+.next/
+build/
+
+# Env files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Hardhat artifacts
+artifacts/
+cache/
+typechain/
+
+# OS
+.DS_Store
+Thumbs.db
